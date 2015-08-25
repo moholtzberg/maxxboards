@@ -551,6 +551,7 @@ DEPENDENCIES
   paperclip
   pg
   premailer-rails
+  rack (~> 1.6.4)
   rails (= 4.2.3)
   rails_12factor
   sass-rails (~> 5.0)
