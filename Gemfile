@@ -19,7 +19,7 @@ gem 'browser'
 group :production do
   gem "pg"
   gem 'therubyracer',  platforms: :ruby
-  gem 'rails_12factor'
+  # gem 'rails_12factor'
 end
 
 group :development do 
