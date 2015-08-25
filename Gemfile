@@ -28,7 +28,6 @@ group :development do
   gem 'capistrano-rvm'
   gem 'better_errors'
   gem "binding_of_caller"
-  # gem 'debugger'
   gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem 'spring'
